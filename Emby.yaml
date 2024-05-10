@@ -1,17 +1,17 @@
 # Emby
 
 #MisakaF
-DOMAIN,stream1.misakaf.org
-DOMAIN,stream2.misakaf.org
-DOMAIN,stream3.misakaf.org
-DOMAIN,emby.aca.best
+  - DOMAIN,stream1.misakaf.org
+  - DOMAIN,stream2.misakaf.org
+  - DOMAIN,stream3.misakaf.org
+  - DOMAIN,emby.aca.best
 
-#制片人
-DOMAIN-SUFFIX,embyplus.org
+#纸片人
+  - DOMAIN-SUFFIX,embyplus.org
 
 #hxd
-DOMAIN-SUFFIX,bili.rip
+  - DOMAIN-SUFFIX,bili.rip
 
 #好鸭
-DOMAIN,e.niceduck.me
-DOMAIN,cf.niceduck.lol
+  - DOMAIN,e.niceduck.me
+  - DOMAIN,cf.niceduck.lol
