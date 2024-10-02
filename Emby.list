@@ -23,6 +23,8 @@ DOMAIN,src-emby.cn2gias.uk
 DOMAIN,tv.811861.xyz
 
 #fac
-DOMAIN,cinema.fmta.boo
-DOMAIN,theater.fmta.boo
-DOMAIN,anime.fmta.boo
+DOMAIN-SUFFIX,fmta.boo
+#DOMAIN,theater.fmta.boo
+#DOMAIN,anime.fmta.boo
+#DOMAIN,restrict.fmta.boo
+
