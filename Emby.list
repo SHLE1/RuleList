@@ -45,11 +45,7 @@ DOMAIN,emby.cn2gias.uk
 DOMAIN,src-emby.cn2gias.uk
 
 #AWA
-DOMAIN,tv.811861.xyz
+DOMAIN,emby.awatv.de
 
-#fac
-DOMAIN-SUFFIX,fmta.boo
-#DOMAIN,theater.fmta.boo
-#DOMAIN,anime.fmta.boo
-#DOMAIN,restrict.fmta.boo
-
+#cloudfisher
+DOMAIN,shsiis.cloudfisher.cc
