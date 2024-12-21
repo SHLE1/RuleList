@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,cn2gias.uk
 
 #AWA
-DOMAIN,emby.awatv.de
+DOMAIN-SUFFIX,awatv.de
 
 #tanhuatv
 DOMAIN,tanhuatv.site
