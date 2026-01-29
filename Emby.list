@@ -16,3 +16,5 @@ DOMAIN-SUFFIX,micu.hk
 DOMAIN-SUFFIX,lilyemby.my
 DOMAIN-SUFFIX,lilyemby.com
 
+# SNTP
+DOMAIN-SUFFIX, cn2gias.uk
